@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/g1ge.gif"  />
+  <img height="250" src="https://cdn.discordapp.com/attachments/1098731559521107968/1103494253860110396/IMG_20230504_083159.jpg"  />
 </div>
 
 ###
@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClayzaAubert&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ClayzaAubert&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ClayzaAubert&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
