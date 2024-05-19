@@ -5,7 +5,7 @@
 ### Hi 👋! My name is Clayza Aubert
 Sebagai seorang penggemar dalam dunia pemrograman, saya sering menghabiskan waktu untuk menciptakan program-program yang menarik. Bahasa pemrograman yang sering saya gunakan adalah JavaScript, khususnya dengan menggunakan framework Node.js. Untuk pengelolaan basis data, saya lebih memilih MongoDB karena fleksibilitas dan skalabilitasnya yang tinggi.
 
-Selain itu, saya juga sering melakukan web scraping untuk mendapatkan data yang diperlukan dalam mengembangkan fitur-fitur canggih di REST API saya. Aktivitas ini memungkinkan saya untuk mengintegrasikan informasi yang kaya dan relevan ke dalam aplikasi yang saya buat. Tak hanya itu, saya juga terlibat dalam pengembangan bot, yang memberikan saya kesempatan untuk menjelajahi dan menerapkan algoritma-algoritma cerdas serta automasi tugas-tugas yang repetitif.
+Selain itu, saya juga sering melakukan web scraping untuk mendapatkan data yang diperlukan dalam mengembangkan fitur-fitur menarik di REST API saya. Aktivitas ini memungkinkan saya untuk mengintegrasikan informasi yang kaya dan relevan ke dalam aplikasi yang saya buat. Tak hanya itu, saya juga terlibat dalam pengembangan bot, yang memberikan saya kesempatan untuk menjelajahi dan menerapkan algoritma-algoritma cerdas serta automasi tugas-tugas yang repetitif.
 
 Setiap proyek yang saya kerjakan bukan hanya sekedar baris-baris kode, tetapi sebuah karya yang mencerminkan kreativitas dan dedikasi saya dalam dunia teknologi.
 
