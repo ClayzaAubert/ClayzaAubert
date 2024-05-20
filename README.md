@@ -14,7 +14,7 @@ Setiap proyek yang saya kerjakan bukan hanya sekedar baris-baris kode, tetapi se
 - Rest API Sparkle : [API Sparkle](https://github.com/ClayzaAubert/API-Sparkle-Docs)
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ClayzaAubert.ClayzaAubert&"  />
+  <img src="https://ipacel.cc/+/MoeCounter2/?name=ClayzaAubert"  />
 </div>
 
 ### My Stats
