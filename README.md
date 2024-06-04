@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/zbJvyHT/Image081023.jpg"  />
+  <img height="100" src="https://telegra.ph/file/f2ad18dee76cd3a78da3e.jpg"  />
 </div>
 
 ### Hi 👋! My name is Clayza Aubert
