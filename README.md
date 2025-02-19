@@ -9,8 +9,9 @@ Selain itu, saya juga sering melakukan web scraping untuk mendapatkan data yang 
 
 Setiap proyek yang saya kerjakan bukan hanya sekedar baris-baris kode, tetapi sebuah karya yang mencerminkan kreativitas dan dedikasi saya dalam dunia teknologi.
 
-- Portofolio : [My Profile](https://clayzaaubert.my.id)
-- Rest API Maelyn : [API Maelyn](https://api.maelyn.my.id)
+- Portofolio : [My Profile](https://clayza.is-a.dev)
+- Maelyn Group : [Maelyn Group](https://maelyn.my.id)
+- Rest API Maelyn : [API Maelyn](https://maelyn.tech)
 - Rest API Sparkle : [API Sparkle](https://github.com/ClayzaAubert/API-Sparkle-Docs)
 
 <div align="center">
