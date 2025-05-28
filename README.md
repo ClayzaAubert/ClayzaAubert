@@ -2,12 +2,16 @@
   <img height="auto" src="https://telegra.ph/file/f2ad18dee76cd3a78da3e.jpg"  />
 </div>
 
-### Hi 👋! My name is Clayza Aubert
-Sebagai seorang penggemar dalam dunia pemrograman, saya sering menghabiskan waktu untuk menciptakan program-program yang menarik. Bahasa pemrograman yang sering saya gunakan adalah JavaScript, khususnya dengan menggunakan framework Node.js. Untuk pengelolaan basis data, saya lebih memilih MongoDB karena fleksibilitas dan skalabilitasnya yang tinggi.
+### 👋 Hi! I'm a programming enthusiast who loves building creative and functional applications.
+I mostly work with JavaScript, especially using Node.js, and I frequently use MongoDB as my primary database due to its flexibility and powerful document-oriented structure.
 
-Selain itu, saya juga sering melakukan web scraping untuk mendapatkan data yang diperlukan dalam mengembangkan fitur-fitur menarik di REST API saya. Aktivitas ini memungkinkan saya untuk mengintegrasikan informasi yang kaya dan relevan ke dalam aplikasi yang saya buat. Tak hanya itu, saya juga terlibat dalam pengembangan bot, yang memberikan saya kesempatan untuk menjelajahi dan menerapkan algoritma-algoritma cerdas serta automasi tugas-tugas yang repetitif.
+🛠️ I enjoy working on:
+- REST API development, integrating useful and dynamic features.
+- Web scraping, to collect relevant data that enhances app functionality.
+- Bot development, automating repetitive tasks and applying smart logic.
+- Exploring AI-related technologies, including machine learning and NLP, to create more intelligent and adaptive systems.
 
-Setiap proyek yang saya kerjakan bukan hanya sekedar baris-baris kode, tetapi sebuah karya yang mencerminkan kreativitas dan dedikasi saya dalam dunia teknologi.
+💡 I believe that every project I build is not just about writing code—it's about creating something meaningful, efficient, and impactful.
 
 - Portofolio : [My Profile](https://clayza.is-a.dev)
 - Maelyn Group : [Maelyn Group](https://maelyn.my.id)
