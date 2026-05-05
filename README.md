@@ -41,27 +41,6 @@ It's simply a hobby — a place to explore, break things, fix them, and learn so
 
 ---
 
-## 🧭 Things I Sometimes Explore
-
-<div align="center">
-
-| Area         | Random Things I Do                      |
-| ------------ | --------------------------------------- |
-| JavaScript   | APIs, bots, web apps, automation        |
-| Python       | Scripts, scraping, small experiments    |
-| Kotlin       | Android APK experiments                 |
-| MongoDB      | Storing data for my random projects     |
-| Web Scraping | Collecting and processing useful data   |
-| Bots         | Telegram bots, helper bots, automation  |
-| Web          | Landing pages, dashboards, simple tools |
-| Random Ideas | Anything that feels fun to build        |
-
-</div>
-
-<br />
-
----
-
 ## 🧩 Some Things I Made / Touched
 
 <div align="center">
