@@ -27,7 +27,7 @@ build  →  break  →  learn  →  repeat
 
 ## ⛩️ `stack`
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,python,go,rust,kotlin,androidstudio,mongodb,git&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,php,java,kotlin,dart,bash&theme=dark" alt="languages" /><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,postgres,redis,firebase&theme=dark" alt="backend and data" /><br/> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,linux,nginx,cloudflare&theme=dark" alt="ai and infra" /><br/> <img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,github,vscode&theme=dark" alt="mobile and tools" />
 
 <img src="https://raw.githubusercontent.com/ClayzaAubert/ClayzaAubert/main/assets/divider.svg?v=2" width="100%" alt="" />
 
