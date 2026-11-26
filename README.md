@@ -39,6 +39,11 @@ Taking pre-trained models and teaching them new tricks: dataset prep, LoRA / fin
 
 <img src="https://raw.githubusercontent.com/ClayzaAubert/ClayzaAubert/main/assets/divider.svg?v=2" width="100%" alt="" />
 
+## 💥 `comic`
+ 
+<img src="https://raw.githubusercontent.com/ClayzaAubert/ClayzaAubert/main/assets/comic.svg?v=1" width="100%" alt="The Wanderer's Loop: build, break, learn, repeat" />
+<img src="https://raw.githubusercontent.com/ClayzaAubert/ClayzaAubert/main/assets/divider.svg?v=2" width="100%" alt="" />
+
 ## 🎴 `projects`
 
 | | |
