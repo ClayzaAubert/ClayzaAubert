@@ -4,43 +4,53 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117)](https://clayza.is-a.dev)
-[![Maelyn](https://img.shields.io/badge/Maelyn-A78BFA?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://maelyn.my.id)
-[![API](https://img.shields.io/badge/Maelyn_API-34D399?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117)](https://maelyn.sbs)
-[![Cashify](https://img.shields.io/badge/Cashify-FB923C?style=flat-square&logo=googlepay&logoColor=white&labelColor=0D1117)](https://cashify.my.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F472B6?style=flat-square&logo=vercel&logoColor=white&labelColor=170F30)](https://clayza.is-a.dev)
+[![Casaku](https://img.shields.io/badge/casaku.id-FB923C?style=flat-square&logo=googlepay&logoColor=white&labelColor=170F30)](https://casaku.id)
+[![Helbi](https://img.shields.io/badge/helbi.id-38BDF8?style=flat-square&logo=googlechrome&logoColor=white&labelColor=170F30)](https://helbi.id)
+[![Dagata](https://img.shields.io/badge/dagata.cc-34D399?style=flat-square&logo=googlechrome&logoColor=white&labelColor=170F30)](https://dagata.cc)
+[![Maelyn](https://img.shields.io/badge/Maelyn-A78BFA?style=flat-square&logo=fastapi&logoColor=white&labelColor=170F30)](https://maelyn.my.id)
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## `> about`
+## 🌸 `about`
 
 A wanderer who builds whatever sparks curiosity: REST APIs, bots, scrapers, Android apps.
-Lately I'm also fine-tuning existing AI models and seeing how far a small dataset can take them.
+Lately I also fine-tune existing AI models and see how far a small dataset can take them.
 
 ```text
 build  →  break  →  learn  →  repeat
 ```
 
-## `> stack`
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,python,kotlin,androidstudio,mongodb,git&theme=dark" alt="stack" />
+## ⛩️ `stack`
 
-## `> ai.lab`
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,python,go,rust,kotlin,androidstudio,mongodb,git&theme=dark" alt="stack" />
 
-Taking pre-trained models and teaching them new tricks: dataset prep, LoRA / fine-tuning, evaluation, and shipping the result behind an API.
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🌙 `ai.lab`
+
+Taking pre-trained models and teaching them new tricks: dataset prep, LoRA / fine-tuning, evaluation, then shipping the result behind an API.
 
 <img src="./assets/training.svg" width="100%" alt="fine-tuning loss curve" />
 
-## `> projects`
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🎴 `projects`
 
 | | |
 |:--|:--|
 | [**Casaku**](https://casaku.id) | QRIS automation helper. Turns static QRIS into dynamic transaction flows. Not a payment gateway. |
+| [**Helbi**](https://helbi.id) | Live project from the workshop. |
+| [**Dagata**](https://dagata.cc) | Live project from the workshop. |
 | [**Maelyn API**](https://maelyn.sbs) | REST API for misc tools. Built to be used, extended, and occasionally broken. |
 | [**Maelyn Group**](https://maelyn.my.id) | Hub for my experiments and side projects. |
-| [**Portfolio**](https://clayza.is-a.dev) | Profile, links, and the story so far. |
 
 <br/>
 
 <img src="./assets/footer.svg" width="100%" alt="keep wandering, keep breaking, keep learning" />
+
+<div align="center"><sub>© 2026 Clayza Aubert · artwork in <code>/assets</code> is all rights reserved</sub></div>
