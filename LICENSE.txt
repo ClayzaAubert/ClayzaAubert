@@ -1,0 +1,8 @@
+Copyright (c) 2026 Clayza Aubert (github.com/ClayzaAubert). All rights reserved.
+
+The artwork in this folder (header.svg, training.svg, divider.svg, footer.svg)
+is original work by Clayza Aubert.
+
+You may NOT copy, redistribute, or publish this artwork, in whole or in part,
+under another name. Removing or altering the "Clayza Aubert" name, the
+copyright mark, or the embedded watermark is prohibited.
