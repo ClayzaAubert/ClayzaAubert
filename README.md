@@ -39,18 +39,13 @@ Taking pre-trained models and teaching them new tricks: dataset prep, LoRA / fin
 
 <img src="https://raw.githubusercontent.com/ClayzaAubert/ClayzaAubert/main/assets/divider.svg?v=2" width="100%" alt="" />
 
-## 💥 `comic`
- 
-<img src="https://raw.githubusercontent.com/ClayzaAubert/ClayzaAubert/main/assets/comic.svg?v=1" width="100%" alt="The Wanderer's Loop: build, break, learn, repeat" />
-<img src="https://raw.githubusercontent.com/ClayzaAubert/ClayzaAubert/main/assets/divider.svg?v=2" width="100%" alt="" />
-
 ## 🎴 `projects`
 
 | | |
 |:--|:--|
 | [**Casaku**](https://casaku.id) | QRIS automation helper. Turns static QRIS into dynamic transaction flows. Not a payment gateway. |
-| [**Helbi**](https://helbi.id) | Live project from the workshop. |
-| [**Dagata**](https://dagata.cc) | Live project from the workshop. |
+| [**Helbi**](https://helbi.id) | AI Router. |
+| [**Dagata**](https://dagata.cc) | menyiapkan bot, pembayaran QRIS, dan pengiriman otomatis. |
 | [**Maelyn API**](https://maelyn.sbs) | REST API for misc tools. Built to be used, extended, and occasionally broken. |
 | [**Maelyn Group**](https://maelyn.my.id) | Hub for my experiments and side projects. |
 
